@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center"># 👋 Olá! Eu sou o Thiago — Desenvolvedor Full Stack</h1>
 
-<!--
-**TLazari/TLazari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Stack-Fullstack-000000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Fiscal-NFe%20%7C%20NFCe%20%7C%20MDFe-111111?style=for-the-badge&logo=apachekafka" />
+  <img src="https://img.shields.io/badge/AI-Automação%20%7C%20MCP%20%7C%20Agents-1a1a1a?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Code-VB.NET%20%7C%20Python%20%7C%20Node.js-222222?style=for-the-badge&logo=visualstudio" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mim
+
+- Desenvolvedor full stack focado em **soluções inteligentes, automações e sistemas de alta performance**.  
+- Experiencia em **documentos fiscais eletrônicos** e integrações com SEFAZ (NF-e, NFC-e, CT-e, MDF-e).  
+- Atuo com **VB.NET (ERP Desktop)**, **Python**, **Node.js**, **Next.js** e **Docker**.  
+- Trabalho com arquitetura moderna, serviços distribuídos e automações via **IA (MCP, Agents, integrações API)**.  
+- Apaixonado por criar ferramentas que resolvem problemas reais de empresas.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Node.js-0f0f0f?style=for-the-badge&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Supabase-0a0a0a?style=for-the-badge&logo=supabase" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/AI-MCP%20Agents-1d1d1d?style=for-the-badge&logo=openai" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:thiagolazari12@gmail.com"><img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/thiago-lazari/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin" /></a>
+</p>
