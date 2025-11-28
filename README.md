@@ -22,21 +22,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Node.js-0f0f0f?style=for-the-badge&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Supabase-0a0a0a?style=for-the-badge&logo=supabase" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/AI-MCP%20Agents-1d1d1d?style=for-the-badge&logo=openai" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TLazari&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_MCP_Agents-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
